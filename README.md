@@ -115,7 +115,7 @@
 
 -----------
 
-Credit: [ElioChiu](https://github.com/ElioChiu)
+Credit: [eliochiu](https://github.com/eliochiu)
 
 Last Edited on: 10/7/2023
 
