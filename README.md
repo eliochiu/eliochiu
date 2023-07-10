@@ -9,6 +9,10 @@
   </ul>
 </div>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 <!--- snake -->
 ![](https://raw.githubusercontent.com/ElioChiu/ElioChiu/main/assets/github-contribution-grid-snake.svg)
