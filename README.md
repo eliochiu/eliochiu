@@ -59,7 +59,7 @@
 
 ## 🛠️ My Skills
 
-![Git](https://img.shields.io/badge/HTML-F05032?style=flat-square&logo=Git&logoColor=white)
+![Git](https://img.shields.io/badge/HTML-F05032?style=flat-square&logo=HTML&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
 ![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
