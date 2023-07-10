@@ -11,8 +11,7 @@
 
 
 <!--- snake -->
-![Snake animation]
-(https://github.com/ElioChiu/ElioChiu/blob/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/ElioChiu/ElioChiu/main/assets/github-contribution-grid-snake.svg)
 
 
 <div align="center">
