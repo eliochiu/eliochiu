@@ -11,8 +11,9 @@
 
 
 <!--- snake -->
+![Snake animation]
+(https://github.com/ElioChiu/ElioChiu/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
